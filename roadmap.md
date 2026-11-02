@@ -1,0 +1,11 @@
+# Maatlaadu dashboard
+- [x] Build overview, users, learning, practice, translation, content, activity, health, settings, and user-profile pages with honest disconnected states.
+- [x] Add login screen without pretending authentication is connected.
+- [x] Verify navigation, filters, search, content tabs, and desktop/mobile layout.
+- [x] Use the supplied Maatlaadu logo as the brand mark in the sidebar, workspace chip, sign-in page, and browser tab icon.
+- [x] Connect existing Android app data and enforce administrator access (user_roles + has_role, admin account verified).
+- [x] Wire every dashboard page to real records with working sign-in and sign-out.
+- [x] Add a change-password option for the signed-in administrator.
+- [x] Verify sign-in, each page's real numbers, and mobile layout in the browser.
+- [x] Package the source for running outside Lovable, with deployment steps and a verified standalone build.
+- [x] Fix clean production route generation and verify the deployment configuration (four regression tests and automatic build pass).
